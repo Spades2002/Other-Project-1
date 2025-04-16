@@ -27,7 +27,7 @@ As a graduate Robotics Engineer passionate about perception systems, I developed
 ## Installation & Usage  
 
 ### Prerequisites  
-- Python 3.8+  
+- Python
 - Webcam  
 
 ### 1. Clone the Repository  
